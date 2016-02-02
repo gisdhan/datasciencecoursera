@@ -1,3 +1,2 @@
-# datasciencecoursera
-DataDhan Project1 Assignment - Create a repo called datasciencecoursera
 Readme file
+This Read me relates to Project1 Repo called datasciencecoursera
